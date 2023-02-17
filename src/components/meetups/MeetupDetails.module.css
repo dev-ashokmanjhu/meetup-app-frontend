@@ -1,0 +1,10 @@
+.detail {
+  text-align: center;
+  text-transform: capitalize;
+  color: white;
+}
+
+.detail img {
+  width: 100%;
+  height: 100%;
+}
